@@ -1,0 +1,18 @@
+#tittle {
+    background-color: aqua;
+    text-align: center;
+    color: white;
+
+}
+
+#textContainer{
+    float: right;
+}
+#twitting {
+    background-color: white;
+    display: block;
+}
+
+#posted {
+
+}
